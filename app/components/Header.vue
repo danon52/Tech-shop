@@ -1,5 +1,9 @@
 <template>
-    <h1>Header</h1>
+
+    <div class="">
+
+    </div>
+
 </template>
 
 <script setup lang='ts'></script>
