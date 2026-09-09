@@ -1,11 +1,21 @@
 <template>
     <div class="w-full bg-black h-15">
-        <div>
-            <p class="text-white text-xl text-center py-5">Summer Sale For all Swim Suits And Free Express Delivery -
-                OFF 50
-                %! ShopNow
-            </p>
+        <div class="flex justify-center  ">
+
+            <div>
+
+                <p class="text-white text-xl text-center py-5 ml-60">Summer Sale For all Swim Suits And Free Express
+                    Delivery
+                    -
+                    OFF 50
+                    %! ShopNow
+                </p>
+            </div>
+            <!-- chage laungage  -->
+            <p class="text-white py-5 text-xl  ml-60">English</p>
+
         </div>
+
     </div>
 
     <header class="px-30 py-15">
